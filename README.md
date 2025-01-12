@@ -7,7 +7,7 @@ A Fallback Mechanism for Dell Laptops with Battery Amnesia
 
 The official or recommended path here is to get a new battery installed, of course. But in case you don't have the budget for a new battery, `FallbackMechanism` is a software solution using which you can continue using an otherwise fine machine with no other issues except for this little "battery amnesia".
 
-Once you start the program, it stays in the system tray and warns you with a notification when the battery discharges below the set percentage value (50% by default). Mind you, in reality, the battery only has about 7-10% charge at this point and it's time to either shut the machine down or plug it to a charger.
+Once you start the program, it stays in the system tray and warns you with a notification when the battery discharges below the set percentage value (50% by default). Mind you, in reality, the battery only has about 7-10% charge at this point and it's time to either shut down the machine or plug it to a charger.
 
 ![tray-icon](https://raw.githubusercontent.com/prahladyeri/fallbackmechanism/main/screenshots/tray-icon.png)
 
